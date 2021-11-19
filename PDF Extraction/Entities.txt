@@ -1,0 +1,513 @@
+Niki : 2
+usz@google.com : 1
+Aidan N. : 1
+Toronto : 1
+aidan@cs.toronto.edu : 1
+Łukasz : 1
+Illia Polosukhin∗ : 1
+Transformer : 21
+two : 17
+28.4 : 3
+WMT : 8
+2014 : 12
+German : 7
+2 : 18
+English : 17
+French : 5
+BLEU : 6
+41.8 : 2
+3.5 days : 3
+eight : 1
+1 : 13
+13 : 3
+Jakob : 1
+Illia : 1
+Noam : 1
+Google Brain : 1
+Google Research : 1
+2017 : 9
+Long Beach : 1
+CA : 1
+USA : 1
+6 : 13
+35 : 3
+5 : 11
+38 : 9
+24 : 2
+15 : 3
+sequence lengths : 1
+21 : 3
+32 : 10
+19 : 2
+27 : 3
+as little as twelve hours : 1
+eight P100 : 1
+Extended Neural : 1
+16 : 7
+18 : 5
+ConvS2S : 2
+9 : 10
+12 : 4
+Multi-Head Attention : 1
+section 3.2 : 1
+4 : 14
+28 : 4
+22 : 2
+34 : 2
+17 : 2
+3 : 13
+xn : 2
+z1 : 2
+y1 : 1
+one : 4
+10 : 3
+3.1 : 1
+second : 1
+11 : 3
+LayerNorm(x + Sublayer(x : 1
+512 : 5
+third : 2
+3.2 : 1
+dk : 3
+√dk : 2
+dot : 4
+0 : 1
+i=1 : 1
+qiki : 1
+KW K
+ : 1
+W K
+ : 1
+W V
+ : 1
+∈ : 1
+W O : 1
+8 : 9
+64 : 3
+three : 3
+−∞ : 1
+3.3 : 2
+Feed-Forward Networks : 1
+ReLU : 1
+max(0 : 1
+xW1 : 1
+2048 : 2
+3.4 : 1
+30 : 2
+√dmodel : 1
+3.5 : 1
+Layer Type
+Complexity : 1
+Sequential : 1
+Path Length
+Operations : 1
+sin(pos/100002i/dmodel : 1
+cos(pos/100002i : 1
+2π : 2
+10000 : 1
+PEpos : 1
+Table 3 row : 1
+zi ∈ : 1
+One : 1
+Table 1 : 1
+31 : 2
+k. Separable : 1
+5.1 : 1
+Batching : 1
+about 4.5 million : 1
+about 37000 : 1
+36 : 4
+32000 : 1
+25000 : 2
+5.2 : 1
+Schedule : 1
+about 0.4 seconds : 1
+100,000 : 1
+12 hours : 1
+1.0 seconds : 1
+300,000 : 1
+5.3 : 1
+20 : 2
+β1 : 1
+0.9 : 2
+0.98 : 1
+10−9 : 1
+d−0.5 : 1
+4000 : 1
+5.4 : 1
+33 : 2
+0.1 : 5
+7 : 1
+23.75 : 1
+Deep-Att + PosUnk : 1
+39 : 3
+39.2 : 1
+1.0 : 1
+1020 : 6
+24.6 : 2
+39.92 : 1
+2.3 : 2
+1019 : 4
+1.4 : 1
+25.16 : 1
+40.46 : 1
+9.6 : 1
+1018 : 2
+1.5 : 1
+26.03 : 1
+40.56 : 1
+2.0 : 1
+1.2 : 2
+Deep-Att + : 1
+40.4 : 1
+8.0 : 1
+26.30 : 1
+41.16 : 1
+1.8 : 1
+1.1 : 1
+1021 : 2
+26.36 : 1
+41.29 : 1
+7.7 : 1
+27.3 : 1
+38.1 : 1
+6.1 : 1
+more than 2.0 : 1
+8 P100 : 1
+41.0 : 1
+less than 1/4 : 1
+Pdrop : 1
+0.3 : 3
+last 5 : 1
+10-minute : 1
+last 20 : 1
+0.6 : 1
+50 : 2
+GPU 5 : 1
+6.2 : 1
+newstest2013 : 2
+Section 3.2.2 : 1
+2.8 : 1
+3.7 : 1
+6.0 : 1
+9.5 : 1
+K80 : 1
+K40 : 1
+M40 : 1
+P100 : 1
+100K : 1
+4.92 : 2
+25.8 : 2
+65 : 1
+5.29 : 1
+24.9 : 1
+128 : 4
+5.00 : 1
+25.5 : 3
+4.91 : 1
+5.01 : 2
+25.4 : 3
+5.16
+ : 1
+25.1 : 1
+58 : 1
+60 : 1
+6.11 : 1
+23.7 : 1
+5.19 : 1
+25.3 : 2
+4.88 : 1
+80 : 1
+256 : 1
+5.75 : 1
+24.5 : 1
+1024 : 4
+4.66 : 1
+26.0 : 1
+168 : 1
+5.12 : 1
+53 : 1
+4.75 : 1
+26.2 : 1
+90 : 1
+0.0 : 2
+5.77 : 1
+4.95 : 1
+4.67 : 1
+0.2 : 1
+5.47 : 1
+25.7 : 2
+4096 : 1
+300K
+4.33
+ : 1
+26.4 : 1
+213 : 1
+Section 23 : 1
+WSJ : 10
+23 : 3
+F1
+Vinyals & Kaiser el al. : 1
+37 : 6
+88.3 : 1
+Petrov : 2
+2006 : 2
+29 : 3
+90.4 : 2
+Zhu et al. : 2
+2013 : 3
+40 : 4
+2016 : 14
+91.7 : 1
+91.3 : 3
+Huang & Harper : 1
+2009 : 4
+14 : 3
+26 : 2
+Vinyals & Kaiser el al. : 1
+92.1 : 1
+92.7 : 1
+Luong : 1
+2015 : 8
+93.0 : 1
+93.3 : 1
+6.3 : 1
+RNN : 2
+the Wall Street Journal : 1
+25 : 2
+about 40 : 1
+BerkleyParser : 1
+K tokens : 1
+section 5.4 : 1
+Section 22 : 1
+300 : 1
+https://github.com/
+tensorflow/tensor2tensor : 1
+Nal Kalchbrenner : 2
+Stephan Gouws : 1
+Jimmy Lei Ba : 1
+Jamie Ryan Kiros : 1
+Geoffrey E Hinton : 2
+arXiv:1607.06450 : 1
+Dzmitry Bahdanau : 1
+Kyunghyun Cho : 3
+Yoshua Bengio : 5
+CoRR : 6
+abs/1409.0473 : 1
+Denny Britz : 1
+Anna Goldie : 1
+Quoc V. Le : 2
+abs/1703.03906, 2017 : 1
+Jianpeng Cheng : 1
+Li Dong : 1
+Mirella Lapata : 1
+Bart van Merrienboer : 1
+Fethi Bougares : 1
+Holger Schwenk : 1
+Junyoung Chung : 1
+Çaglar Gülçehre : 1
+abs/1412.3555, 2014 : 1
+Chris Dyer : 1
+Adhiguna Kuncoro : 1
+Miguel Ballesteros : 1
+Noah A. Smith : 1
+NAACL : 2
+Jonas Gehring : 1
+Michael Auli : 1
+David Grangier : 1
+Denis Yarats : 1
+Yann N. Dauphin : 1
+Xiangyu Zhang : 1
+Jian Sun : 1
+Paolo Frasconi : 1
+Jürgen Schmidhuber : 2
+2001 : 1
+9(8):1735–1780, 1997 : 1
+Zhongqiang Huang : 1
+Mary Harper : 1
+Conference on Empirical Methods in Natural : 1
+832–841 : 1
+ACL : 5
+August 2009 : 1
+Rafal Jozefowicz : 1
+Oriol Vinyals : 3
+Mike Schuster : 2
+Noam Shazeer : 1
+Yonghui Wu : 2
+arXiv:1602.02410 : 1
+Samy Bengio : 1
+Łukasz Kaiser : 1
+Ilya Sutskever : 3
+International Conference : 2
+Learning Representations : 1
+Lasse Espeholt : 1
+Karen Simonyan : 1
+Aaron van den Oord : 1
+Alex Graves : 1
+Kavukcuoglu : 1
+arXiv:1610.10099v2 : 1
+Yoon Kim : 1
+Carl Denton : 1
+Luong Hoang : 1
+Alexander M. Rush : 1
+International Conference on Learning Representations : 1
+Diederik Kingma : 1
+Jimmy Ba : 1
+ICLR : 1
+Boris Ginsburg : 1
+arXiv:1703.10722 : 1
+Zhouhan Lin : 1
+Minwei Feng : 1
+Santos : 1
+Mo Yu : 1
+Bing Xiang : 1
+Bowen
+Zhou : 1
+Lukasz Kaiser : 1
+arXiv:1511.06114 : 1
+Hieu Pham : 1
+Christopher D Manning : 1
+Mary Ann Marcinkiewicz : 1
+Beatrice Santorini : 1
+english : 1
+19(2):313–330, 1993 : 1
+David McClosky : 1
+Eugene Charniak : 1
+Mark Johnson : 1
+the Human Language Technology Conference : 1
+Main Conference : 1
+152–159 : 1
+June 2006 : 1
+Ankur Parikh : 1
+Oscar Täckström : 1
+Dipanjan Das : 1
+Jakob Uszkoreit : 1
+Empirical Methods in Natural Language Processing : 1
+Caiming Xiong : 1
+Richard Socher : 1
+Slav Petrov : 1
+Leon Barrett : 1
+Romain Thibaux : 1
+Dan Klein : 1
+Proceedings : 1
+21st : 1
+44th : 1
+Annual Meeting : 1
+433–440 : 1
+July
+2006 : 1
+Lior Wolf : 1
+Rico Sennrich : 1
+Barry Haddow : 1
+Alexandra Birch : 1
+Azalia Mirhoseini : 1
+Krzysztof Maziarz : 1
+Andy Davis : 1
+Quoc Le : 1
+Geoffrey Hinton : 1
+Jeff Dean : 1
+arXiv:1701.06538 : 1
+Nitish Srivastava : 1
+Alex Krizhevsky : 1
+Ruslan : 1
+Journal of Machine
+Learning Research : 1
+15(1):1929–1958, 2014 : 1
+Arthur Szlam : 1
+Jason Weston : 1
+Rob Fergus : 1
+C. Cortes : 1
+N. D. Lawrence : 1
+D. D. Lee : 1
+R. Garnett : 1
+2440–2448 : 1
+Curran Associates : 1
+Quoc VV Le : 1
+3104–3112, 2014 : 1
+Christian Szegedy : 1
+Vincent Vanhoucke : 1
+Zbigniew Wojna : 1
+abs/1512.00567 : 1
+Koo : 1
+Sutskever : 1
+Hinton : 1
+Grammar : 1
+Zhifeng Chen : 1
+Quoc V Le : 1
+Mohammad Norouzi : 1
+Wolfgang
+Macherey : 1
+Maxim Krikun : 1
+Yuan Cao : 1
+Qin Gao : 1
+Klaus Macherey : 1
+Ying Cao : 1
+Xuguang Wang : 1
+Peng Li : 1
+Wei Xu : 1
+abs/1606.04199 : 1
+Muhua Zhu : 1
+Yue Zhang : 1
+Wenliang Chen : 1
+Min Zhang : 1
+Jingbo Zhu : 1
+51st : 1
+Annual Meeting of the ACL : 1
+434–443 : 1
+August 2013 : 1
+American : 2
+Two : 1
+0 : 0
+0 : 0
+0 : 0
+0 : 0
+0 : 0
+0 : 0
+0 : 0
+0 : 0
+0 : 0
+0 : 0
+0 : 0
+0 : 0
+0 : 0
+0 : 0
+0 : 0
+0 : 0
+0 : 0
+0 : 0
+0 : 0
+0 : 0
+0 : 0
+0 : 0
+0 : 0
+0 : 0
+0 : 0
+0 : 0
+0 : 0
+0 : 0
+0 : 0
+0 : 0
+0 : 0
+0 : 0
+0 : 0
+0 : 0
+0 : 0
+0 : 0
+0 : 0
+0 : 0
+0 : 0
+0 : 0
+0 : 0
+0 : 0
+0 : 0
+0 : 0
+0 : 0
+0 : 0
+0 : 0
+0 : 0
+0 : 0
+0 : 0
+0 : 0
+0 : 0
+0 : 0
+0 : 0
