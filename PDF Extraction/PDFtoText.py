@@ -3,7 +3,7 @@ import fitz
 #Ask user for the document name and makes sure the input is a pdf
 flag = False
 while flag == False:
-    file = input("Please input the PDF you would like to extract data from(Please Include the '.pdf' ")
+    file = input("Please input the PDF you would like to extract data from(Please Include the '.pdf') \n")
     if file[len(file)-4:] == ".pdf":
         flag = True
 
