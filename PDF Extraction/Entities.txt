@@ -1,0 +1,513 @@
+Niki : 2 : ORG
+usz@google.com : 1 : ORG
+Aidan N. : 1 : PERSON
+Toronto : 1 : GPE
+aidan@cs.toronto.edu : 1 : ORG
+Łukasz : 1 : PERSON
+Illia Polosukhin∗ : 1 : ORG
+Transformer : 21 : ORG
+two : 17 : CARDINAL
+28.4 : 3 : CARDINAL
+WMT : 8 : ORG
+2014 : 12 : DATE
+German : 7 : NORP
+2 : 18 : CARDINAL
+English : 17 : LANGUAGE
+French : 5 : NORP
+BLEU : 6 : ORG
+41.8 : 2 : CARDINAL
+3.5 days : 3 : DATE
+eight : 1 : CARDINAL
+1 : 13 : CARDINAL
+13 : 3 : CARDINAL
+Jakob : 1 : ORG
+Illia : 1 : GPE
+Noam : 1 : PERSON
+Google Brain : 1 : ORG
+Google Research : 1 : ORG
+2017 : 9 : DATE
+Long Beach : 1 : GPE
+CA : 1 : GPE
+USA : 1 : GPE
+6 : 13 : CARDINAL
+35 : 3 : CARDINAL
+5 : 11 : CARDINAL
+38 : 9 : CARDINAL
+24 : 2 : DATE
+15 : 3 : CARDINAL
+sequence lengths : 1 : PERSON
+21 : 3 : CARDINAL
+32 : 10 : CARDINAL
+19 : 2 : CARDINAL
+27 : 3 : CARDINAL
+as little as twelve hours : 1 : MONEY
+eight P100 : 1 : TIME
+Extended Neural : 1 : ORG
+16 : 7 : CARDINAL
+18 : 5 : CARDINAL
+ConvS2S : 2 : ORG
+9 : 10 : CARDINAL
+12 : 4 : CARDINAL
+Multi-Head Attention : 1 : ORG
+section 3.2 : 1 : LAW
+4 : 14 : CARDINAL
+28 : 4 : DATE
+22 : 2 : CARDINAL
+34 : 2 : CARDINAL
+17 : 2 : CARDINAL
+3 : 13 : CARDINAL
+xn : 2 : PERSON
+z1 : 2 : NORP
+y1 : 1 : PRODUCT
+one : 4 : CARDINAL
+10 : 3 : CARDINAL
+3.1 : 1 : CARDINAL
+second : 1 : ORDINAL
+11 : 3 : CARDINAL
+LayerNorm(x + Sublayer(x : 1 : PRODUCT
+512 : 5 : CARDINAL
+third : 2 : ORDINAL
+3.2 : 1 : CARDINAL
+dk : 3 : PERSON
+√dk : 2 : ORG
+dot : 4 : ORG
+0 : 1 : CARDINAL
+i=1 : 1 : GPE
+qiki : 1 : ORG
+KW K
+ : 1 : ORG
+W K
+ : 1 : ORG
+W V
+ : 1 : ORG
+∈ : 1 : PERSON
+W O : 1 : GPE
+8 : 9 : CARDINAL
+64 : 3 : DATE
+three : 3 : CARDINAL
+−∞ : 1 : GPE
+3.3 : 2 : CARDINAL
+Feed-Forward Networks : 1 : ORG
+ReLU : 1 : LOC
+max(0 : 1 : GPE
+xW1 : 1 : GPE
+2048 : 2 : DATE
+3.4 : 1 : CARDINAL
+30 : 2 : CARDINAL
+√dmodel : 1 : PERSON
+3.5 : 1 : CARDINAL
+Layer Type
+Complexity : 1 : PERSON
+Sequential : 1 : DATE
+Path Length
+Operations : 1 : PERSON
+sin(pos/100002i/dmodel : 1 : ORG
+cos(pos/100002i : 1 : GPE
+2π : 2 : CARDINAL
+10000 : 1 : CARDINAL
+PEpos : 1 : WORK_OF_ART
+Table 3 row : 1 : LAW
+zi ∈ : 1 : PERSON
+One : 1 : CARDINAL
+Table 1 : 1 : LAW
+31 : 2 : CARDINAL
+k. Separable : 1 : ORG
+5.1 : 1 : CARDINAL
+Batching : 1 : ORG
+about 4.5 million : 1 : CARDINAL
+about 37000 : 1 : CARDINAL
+36 : 4 : CARDINAL
+32000 : 1 : CARDINAL
+25000 : 2 : CARDINAL
+5.2 : 1 : CARDINAL
+Schedule : 1 : ORG
+about 0.4 seconds : 1 : TIME
+100,000 : 1 : CARDINAL
+12 hours : 1 : TIME
+1.0 seconds : 1 : TIME
+300,000 : 1 : CARDINAL
+5.3 : 1 : CARDINAL
+20 : 2 : CARDINAL
+β1 : 1 : PRODUCT
+0.9 : 2 : CARDINAL
+0.98 : 1 : CARDINAL
+10−9 : 1 : CARDINAL
+d−0.5 : 1 : CARDINAL
+4000 : 1 : CARDINAL
+5.4 : 1 : CARDINAL
+33 : 2 : CARDINAL
+0.1 : 5 : CARDINAL
+7 : 1 : CARDINAL
+23.75 : 1 : CARDINAL
+Deep-Att + PosUnk : 1 : WORK_OF_ART
+39 : 3 : CARDINAL
+39.2 : 1 : CARDINAL
+1.0 : 1 : CARDINAL
+1020 : 6 : DATE
+24.6 : 2 : CARDINAL
+39.92 : 1 : CARDINAL
+2.3 : 2 : CARDINAL
+1019 : 4 : DATE
+1.4 : 1 : CARDINAL
+25.16 : 1 : CARDINAL
+40.46 : 1 : CARDINAL
+9.6 : 1 : CARDINAL
+1018 : 2 : DATE
+1.5 : 1 : CARDINAL
+26.03 : 1 : CARDINAL
+40.56 : 1 : MONEY
+2.0 : 1 : CARDINAL
+1.2 : 2 : CARDINAL
+Deep-Att + : 1 : WORK_OF_ART
+40.4 : 1 : CARDINAL
+8.0 : 1 : MONEY
+26.30 : 1 : CARDINAL
+41.16 : 1 : CARDINAL
+1.8 : 1 : CARDINAL
+1.1 : 1 : CARDINAL
+1021 : 2 : DATE
+26.36 : 1 : CARDINAL
+41.29 : 1 : CARDINAL
+7.7 : 1 : CARDINAL
+27.3 : 1 : CARDINAL
+38.1 : 1 : CARDINAL
+6.1 : 1 : CARDINAL
+more than 2.0 : 1 : CARDINAL
+8 P100 : 1 : QUANTITY
+41.0 : 1 : CARDINAL
+less than 1/4 : 1 : CARDINAL
+Pdrop : 1 : ORG
+0.3 : 3 : CARDINAL
+last 5 : 1 : DATE
+10-minute : 1 : TIME
+last 20 : 1 : DATE
+0.6 : 1 : CARDINAL
+50 : 2 : CARDINAL
+GPU 5 : 1 : LAW
+6.2 : 1 : CARDINAL
+newstest2013 : 2 : GPE
+Section 3.2.2 : 1 : LAW
+2.8 : 1 : CARDINAL
+3.7 : 1 : CARDINAL
+6.0 : 1 : CARDINAL
+9.5 : 1 : CARDINAL
+K80 : 1 : ORG
+K40 : 1 : ORG
+M40 : 1 : ORG
+P100 : 1 : PRODUCT
+100K : 1 : PERCENT
+4.92 : 2 : CARDINAL
+25.8 : 2 : CARDINAL
+65 : 1 : CARDINAL
+5.29 : 1 : CARDINAL
+24.9 : 1 : CARDINAL
+128 : 4 : CARDINAL
+5.00 : 1 : CARDINAL
+25.5 : 3 : CARDINAL
+4.91 : 1 : CARDINAL
+5.01 : 2 : CARDINAL
+25.4 : 3 : CARDINAL
+5.16
+ : 1 : PERCENT
+25.1 : 1 : CARDINAL
+58 : 1 : CARDINAL
+60 : 1 : CARDINAL
+6.11 : 1 : CARDINAL
+23.7 : 1 : CARDINAL
+5.19 : 1 : CARDINAL
+25.3 : 2 : CARDINAL
+4.88 : 1 : CARDINAL
+80 : 1 : CARDINAL
+256 : 1 : CARDINAL
+5.75 : 1 : CARDINAL
+24.5 : 1 : CARDINAL
+1024 : 4 : DATE
+4.66 : 1 : CARDINAL
+26.0 : 1 : CARDINAL
+168 : 1 : CARDINAL
+5.12 : 1 : MONEY
+53 : 1 : CARDINAL
+4.75 : 1 : CARDINAL
+26.2 : 1 : CARDINAL
+90 : 1 : CARDINAL
+0.0 : 2 : CARDINAL
+5.77 : 1 : CARDINAL
+4.95 : 1 : CARDINAL
+4.67 : 1 : CARDINAL
+0.2 : 1 : CARDINAL
+5.47 : 1 : CARDINAL
+25.7 : 2 : CARDINAL
+4096 : 1 : DATE
+300K
+4.33
+ : 1 : PERCENT
+26.4 : 1 : CARDINAL
+213 : 1 : CARDINAL
+Section 23 : 1 : LAW
+WSJ : 10 : ORG
+23 : 3 : CARDINAL
+F1
+Vinyals & Kaiser el al. : 1 : ORG
+37 : 6 : CARDINAL
+88.3 : 1 : CARDINAL
+Petrov : 2 : PERSON
+2006 : 2 : DATE
+29 : 3 : CARDINAL
+90.4 : 2 : CARDINAL
+Zhu et al. : 2 : PERSON
+2013 : 3 : DATE
+40 : 4 : CARDINAL
+2016 : 14 : DATE
+91.7 : 1 : CARDINAL
+91.3 : 3 : CARDINAL
+Huang & Harper : 1 : ORG
+2009 : 4 : DATE
+14 : 3 : CARDINAL
+26 : 2 : CARDINAL
+Vinyals & Kaiser el al. : 1 : ORG
+92.1 : 1 : CARDINAL
+92.7 : 1 : CARDINAL
+Luong : 1 : PERSON
+2015 : 8 : DATE
+93.0 : 1 : CARDINAL
+93.3 : 1 : CARDINAL
+6.3 : 1 : CARDINAL
+RNN : 2 : ORG
+the Wall Street Journal : 1 : ORG
+25 : 2 : CARDINAL
+about 40 : 1 : CARDINAL
+BerkleyParser : 1 : ORG
+K tokens : 1 : ORG
+section 5.4 : 1 : LAW
+Section 22 : 1 : LAW
+300 : 1 : CARDINAL
+https://github.com/
+tensorflow/tensor2tensor : 1 : ORG
+Nal Kalchbrenner : 2 : PERSON
+Stephan Gouws : 1 : PERSON
+Jimmy Lei Ba : 1 : PERSON
+Jamie Ryan Kiros : 1 : PERSON
+Geoffrey E Hinton : 2 : ORG
+arXiv:1607.06450 : 1 : GPE
+Dzmitry Bahdanau : 1 : ORG
+Kyunghyun Cho : 3 : PERSON
+Yoshua Bengio : 5 : PERSON
+CoRR : 6 : ORG
+abs/1409.0473 : 1 : GPE
+Denny Britz : 1 : PERSON
+Anna Goldie : 1 : PERSON
+Quoc V. Le : 2 : PERSON
+abs/1703.03906, 2017 : 1 : DATE
+Jianpeng Cheng : 1 : PERSON
+Li Dong : 1 : PERSON
+Mirella Lapata : 1 : PERSON
+Bart van Merrienboer : 1 : PERSON
+Fethi Bougares : 1 : ORG
+Holger Schwenk : 1 : PERSON
+Junyoung Chung : 1 : PERSON
+Çaglar Gülçehre : 1 : ORG
+abs/1412.3555, 2014 : 1 : DATE
+Chris Dyer : 1 : PERSON
+Adhiguna Kuncoro : 1 : PERSON
+Miguel Ballesteros : 1 : PERSON
+Noah A. Smith : 1 : PERSON
+NAACL : 2 : ORG
+Jonas Gehring : 1 : PERSON
+Michael Auli : 1 : PERSON
+David Grangier : 1 : PERSON
+Denis Yarats : 1 : PERSON
+Yann N. Dauphin : 1 : PERSON
+Xiangyu Zhang : 1 : PERSON
+Jian Sun : 1 : PERSON
+Paolo Frasconi : 1 : PERSON
+Jürgen Schmidhuber : 2 : PERSON
+2001 : 1 : DATE
+9(8):1735–1780, 1997 : 1 : DATE
+Zhongqiang Huang : 1 : PERSON
+Mary Harper : 1 : PERSON
+Conference on Empirical Methods in Natural : 1 : EVENT
+832–841 : 1 : CARDINAL
+ACL : 5 : ORG
+August 2009 : 1 : DATE
+Rafal Jozefowicz : 1 : PERSON
+Oriol Vinyals : 3 : ORG
+Mike Schuster : 2 : PERSON
+Noam Shazeer : 1 : PERSON
+Yonghui Wu : 2 : PERSON
+arXiv:1602.02410 : 1 : ORG
+Samy Bengio : 1 : PERSON
+Łukasz Kaiser : 1 : PERSON
+Ilya Sutskever : 3 : ORG
+International Conference : 2 : ORG
+Learning Representations : 1 : ORG
+Lasse Espeholt : 1 : ORG
+Karen Simonyan : 1 : PERSON
+Aaron van den Oord : 1 : PERSON
+Alex Graves : 1 : PERSON
+Kavukcuoglu : 1 : ORG
+arXiv:1610.10099v2 : 1 : PRODUCT
+Yoon Kim : 1 : PERSON
+Carl Denton : 1 : PERSON
+Luong Hoang : 1 : PERSON
+Alexander M. Rush : 1 : PERSON
+International Conference on Learning Representations : 1 : ORG
+Diederik Kingma : 1 : PERSON
+Jimmy Ba : 1 : PERSON
+ICLR : 1 : ORG
+Boris Ginsburg : 1 : PERSON
+arXiv:1703.10722 : 1 : GPE
+Zhouhan Lin : 1 : PERSON
+Minwei Feng : 1 : PERSON
+Santos : 1 : GPE
+Mo Yu : 1 : PERSON
+Bing Xiang : 1 : PERSON
+Bowen
+Zhou : 1 : PERSON
+Lukasz Kaiser : 1 : PERSON
+arXiv:1511.06114 : 1 : PERSON
+Hieu Pham : 1 : PERSON
+Christopher D Manning : 1 : PERSON
+Mary Ann Marcinkiewicz : 1 : PERSON
+Beatrice Santorini : 1 : PERSON
+english : 1 : LANGUAGE
+19(2):313–330, 1993 : 1 : DATE
+David McClosky : 1 : PERSON
+Eugene Charniak : 1 : PERSON
+Mark Johnson : 1 : PERSON
+the Human Language Technology Conference : 1 : ORG
+Main Conference : 1 : GPE
+152–159 : 1 : CARDINAL
+June 2006 : 1 : DATE
+Ankur Parikh : 1 : ORG
+Oscar Täckström : 1 : PERSON
+Dipanjan Das : 1 : PERSON
+Jakob Uszkoreit : 1 : PERSON
+Empirical Methods in Natural Language Processing : 1 : WORK_OF_ART
+Caiming Xiong : 1 : PERSON
+Richard Socher : 1 : PERSON
+Slav Petrov : 1 : PERSON
+Leon Barrett : 1 : PERSON
+Romain Thibaux : 1 : PERSON
+Dan Klein : 1 : PERSON
+Proceedings : 1 : PERSON
+21st : 1 : ORDINAL
+44th : 1 : ORDINAL
+Annual Meeting : 1 : WORK_OF_ART
+433–440 : 1 : CARDINAL
+July
+2006 : 1 : DATE
+Lior Wolf : 1 : PERSON
+Rico Sennrich : 1 : PERSON
+Barry Haddow : 1 : PERSON
+Alexandra Birch : 1 : PERSON
+Azalia Mirhoseini : 1 : ORG
+Krzysztof Maziarz : 1 : PERSON
+Andy Davis : 1 : PERSON
+Quoc Le : 1 : PERSON
+Geoffrey Hinton : 1 : PERSON
+Jeff Dean : 1 : PERSON
+arXiv:1701.06538 : 1 : ORG
+Nitish Srivastava : 1 : PERSON
+Alex Krizhevsky : 1 : PERSON
+Ruslan : 1 : PERSON
+Journal of Machine
+Learning Research : 1 : ORG
+15(1):1929–1958, 2014 : 1 : DATE
+Arthur Szlam : 1 : PERSON
+Jason Weston : 1 : PERSON
+Rob Fergus : 1 : PERSON
+C. Cortes : 1 : PERSON
+N. D. Lawrence : 1 : PERSON
+D. D. Lee : 1 : PERSON
+R. Garnett : 1 : PERSON
+2440–2448 : 1 : CARDINAL
+Curran Associates : 1 : ORG
+Quoc VV Le : 1 : ORG
+3104–3112, 2014 : 1 : DATE
+Christian Szegedy : 1 : PERSON
+Vincent Vanhoucke : 1 : PERSON
+Zbigniew Wojna : 1 : PERSON
+abs/1512.00567 : 1 : GPE
+Koo : 1 : ORG
+Sutskever : 1 : GPE
+Hinton : 1 : GPE
+Grammar : 1 : PERSON
+Zhifeng Chen : 1 : PERSON
+Quoc V Le : 1 : PERSON
+Mohammad Norouzi : 1 : PERSON
+Wolfgang
+Macherey : 1 : PERSON
+Maxim Krikun : 1 : PERSON
+Yuan Cao : 1 : PERSON
+Qin Gao : 1 : PERSON
+Klaus Macherey : 1 : PERSON
+Ying Cao : 1 : PERSON
+Xuguang Wang : 1 : PERSON
+Peng Li : 1 : PERSON
+Wei Xu : 1 : PERSON
+abs/1606.04199 : 1 : ORG
+Muhua Zhu : 1 : PERSON
+Yue Zhang : 1 : PERSON
+Wenliang Chen : 1 : PERSON
+Min Zhang : 1 : PERSON
+Jingbo Zhu : 1 : PERSON
+51st : 1 : ORDINAL
+Annual Meeting of the ACL : 1 : WORK_OF_ART
+434–443 : 1 : CARDINAL
+August 2013 : 1 : DATE
+American : 2 : NORP
+Two : 1 : CARDINAL
+0 : 0 : 0
+0 : 0 : 0
+0 : 0 : 0
+0 : 0 : 0
+0 : 0 : 0
+0 : 0 : 0
+0 : 0 : 0
+0 : 0 : 0
+0 : 0 : 0
+0 : 0 : 0
+0 : 0 : 0
+0 : 0 : 0
+0 : 0 : 0
+0 : 0 : 0
+0 : 0 : 0
+0 : 0 : 0
+0 : 0 : 0
+0 : 0 : 0
+0 : 0 : 0
+0 : 0 : 0
+0 : 0 : 0
+0 : 0 : 0
+0 : 0 : 0
+0 : 0 : 0
+0 : 0 : 0
+0 : 0 : 0
+0 : 0 : 0
+0 : 0 : 0
+0 : 0 : 0
+0 : 0 : 0
+0 : 0 : 0
+0 : 0 : 0
+0 : 0 : 0
+0 : 0 : 0
+0 : 0 : 0
+0 : 0 : 0
+0 : 0 : 0
+0 : 0 : 0
+0 : 0 : 0
+0 : 0 : 0
+0 : 0 : 0
+0 : 0 : 0
+0 : 0 : 0
+0 : 0 : 0
+0 : 0 : 0
+0 : 0 : 0
+0 : 0 : 0
+0 : 0 : 0
+0 : 0 : 0
+0 : 0 : 0
+0 : 0 : 0
+0 : 0 : 0
+0 : 0 : 0
+0 : 0 : 0
