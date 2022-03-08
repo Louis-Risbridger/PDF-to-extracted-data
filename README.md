@@ -5,3 +5,4 @@ To run this project, run clear.py it will run everything else automatically with
 
 Needed Repositories:
 pymupdf(fitz)
+spaCy
